@@ -1,0 +1,28 @@
+# Maxfiy ma'lumotlar (Buni aslo GitHub-ga yuklamang!)
+.env
+
+# Python kesh fayllari
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual muhit (Hamma o'zi uchun alohida yaratadi)
+venv/
+env/
+ENV/
+.venv/
+.env/
+
+# IDE sozlamalari (Dasturlash muhiti fayllari)
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Ma'lumotlar bazasi (Agar kelajakda sqlite ishlatsangiz)
+*.sqlite3
+*.db
+
+# Tizim fayllari
+.DS_Store
+Thumbs.db
