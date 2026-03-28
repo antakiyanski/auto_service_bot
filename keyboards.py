@@ -1,5 +1,4 @@
-from aiogram.types
-import InlineKeyboardMarkup,inlineKeyboardButton
+from aiogram.types import InlineKeyboardMarkup,InlineKeyboardButton
 from config import SERVICES
 
 def get_services_kb():
